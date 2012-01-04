@@ -5,8 +5,8 @@
  *      Author: Ghassen Hamrouni
  */
 
-#include "AnisotropicDiffusion.h"
-#include "SmoothedStep.h"
+#include "AnisotropicDiffusion.hpp"
+#include "SmoothedStep.hpp"
 #include <iostream>
 
 #include <boost/gil/extension/io/jpeg_dynamic_io.hpp>
